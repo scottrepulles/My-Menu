@@ -33,4 +33,5 @@
     <string name="action_favorites">Favorites</string>
     <string name="no_note_added_yet">No note added yet</string>
     <string name="enter_your_note">Enter your note</string>
+    <string name="selected_date_none">Selected Date: None</string>
 </resources>
